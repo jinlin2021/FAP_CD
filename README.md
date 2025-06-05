@@ -1,1 +1,5 @@
-# FAP_CD
+# FAP-CD: Fairness-Driven Age-Friendly Community Planning via Conditional Diffusion Generation
+
+## FAP-CD Overview
+
+Current urban development practices fall significantly short in implementing age-friendly planning, leading to elderly services that are insufficient and unevenly distributed across regions. This underscores the urgent need for age-friendly urban renewal strategies. To tackle this challenge, our work focuses on generating optimized planning schemes for urban aging facilities, tailored to the unique demands of age-friendly community planning. We introduce a novel framework called \textbf{F}airness-driven \textbf{A}ge-friendly community \textbf{P}lanning via \textbf{C}onditional \textbf{D}iffusion generation (FAP-CD) that utilizes a conditioned graph denoising diffusion probabilistic model to learn the conditional joint probability distribution of aging facilities and their spatial relationships at a fine-grained regional level. Specifically, this approach generates optimized spatial distributions of facilities from noisy graphs, conditioned on the needs of the elderly during the denoising diffusion process.
